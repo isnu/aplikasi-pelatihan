@@ -1,0 +1,15 @@
+com\ajariaku\pelatihan\config\KonfigurasiSecurity.class
+com\ajariaku\pelatihan\controller\PesertaController.class
+com\ajariaku\pelatihan\config\KonfigurasiWeb.class
+com\ajariaku\pelatihan\controller\HaloController.class
+com\ajariaku\pelatihan\config\CsrfAttributeToCookieFilter.class
+com\ajariaku\pelatihan\AplikasiPelatihanApplication.class
+com\ajariaku\pelatihan\dao\PesertaDao.class
+com\ajariaku\pelatihan\entity\Peserta.class
+com\ajariaku\pelatihan\dao\MateriDao.class
+com\ajariaku\pelatihan\controller\MateriController.class
+com\ajariaku\pelatihan\controller\PesertaHtmlController.class
+com\ajariaku\pelatihan\config\ThymeleafLayoutInterceptor.class
+com\ajariaku\pelatihan\dao\SesiDao.class
+com\ajariaku\pelatihan\entity\Sesi.class
+com\ajariaku\pelatihan\entity\Materi.class
